@@ -1,3 +1,8 @@
+---
+layout: default
+title: "Chapter 11: Graceful Degradation vs Catastrophic Failure"
+---
+
 # Chapter 11: Graceful Degradation vs Catastrophic Failure
 
 At 2:00 AM on September 17, 1991, a single line of badly formatted data entered AT&T's network switching system in New York. The software couldn't parse it. The switch crashed. Standard procedure: fail over to the backup.

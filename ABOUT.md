@@ -1,3 +1,8 @@
+---
+layout: default
+title: "About the Author"
+---
+
 # About the Author
 
 I help people make sense of complexity — in code, in systems, and in themselves.

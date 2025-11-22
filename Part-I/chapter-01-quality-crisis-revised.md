@@ -1,3 +1,8 @@
+---
+layout: default
+title: "Chapter 1: The Quality Crisis (1970s-1990s)"
+---
+
 # Chapter 1: The Quality Crisis (1970s-1990s)
 
 ## The Day Software Started Killing People

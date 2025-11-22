@@ -1,3 +1,8 @@
+---
+layout: default
+title: "Chapter 10: AI Reduces Variance, Not Just Time"
+---
+
 # Chapter 10: AI Reduces Variance, Not Just Time
 
 Jennifer had been doing code reviews for fifteen years. She was good at it—meticulous, thorough, constructive. Her reviews caught subtle bugs, identified architectural concerns, suggested better approaches. Junior developers appreciated her feedback. Senior developers respected her judgment.

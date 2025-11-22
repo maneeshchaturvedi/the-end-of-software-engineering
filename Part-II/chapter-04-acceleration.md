@@ -1,3 +1,8 @@
+---
+layout: default
+title: "Chapter 4: When Production Accelerates 10-50x"
+---
+
 # PART II: THE AI DISRUPTION
 
 ---

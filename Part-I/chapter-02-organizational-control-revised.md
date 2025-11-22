@@ -1,3 +1,8 @@
+---
+layout: default
+title: "Chapter 2: The Real Reason It Stuck - Organizational Control"
+---
+
 # Chapter 2: The Real Reason It Stuck - Organizational Control
 
 ## The Programmer Who Could Break the Company

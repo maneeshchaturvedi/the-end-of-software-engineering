@@ -1,3 +1,8 @@
+---
+layout: default
+title: "Chapter 8: The New Control - Automation Over Headcount"
+---
+
 # Chapter 8: The New Control - Automation Over Headcount
 
 ## The CTO Who Knew Everything

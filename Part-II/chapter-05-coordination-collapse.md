@@ -1,3 +1,8 @@
+---
+layout: default
+title: "Chapter 5: The Collapse of Coordination Layers"
+---
+
 # Chapter 5: The Collapse of Coordination Layers
 
 ## The Manager Who Became Unnecessary

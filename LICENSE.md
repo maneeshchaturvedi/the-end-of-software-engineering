@@ -1,3 +1,8 @@
+---
+layout: default
+title: "License"
+---
+
 # License
 
 ## Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International

@@ -1,3 +1,8 @@
+---
+layout: default
+title: "Part I: The Origins of Bureaucracy"
+---
+
 # Part I: The Origins of Bureaucracy
 
 *Understanding where we came from to see where we're going*

@@ -1,3 +1,8 @@
+---
+layout: default
+title: "Part III: Speed, Correctness, and the New Safety"
+---
+
 # Part III: Speed, Correctness, and the New Safety
 
 *Addressing the "fast but wrong" concern*

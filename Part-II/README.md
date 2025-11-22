@@ -1,3 +1,8 @@
+---
+layout: default
+title: "Part II: The AI Disruption"
+---
+
 # Part II: The AI Disruption
 
 *How AI agents break the entire logic of control*

@@ -1,3 +1,8 @@
+---
+layout: default
+title: "Chapter 12: What Bureaucracy Actually Fixed (And Didn't)"
+---
+
 # Chapter 12: What Bureaucracy Actually Fixed (And Didn't)
 
 Tom was a Product Manager at a large enterprise software company. Every feature went through his review process. Engineers would write detailed specification documents. Tom would review them, ask clarifying questions, iterate on the requirements. Then the specs would go to architecture review. Then to sprint planning. Then to implementation. Then to code review. Then to QA. Then to stakeholder review. Then, finally, to production.

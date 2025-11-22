@@ -1,3 +1,8 @@
+---
+layout: default
+title: "Table of Contents"
+---
+
 # Table of Contents
 
 ## [Part I: The Origins of Bureaucracy](Part-I/)

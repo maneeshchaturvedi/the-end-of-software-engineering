@@ -1,3 +1,8 @@
+---
+layout: default
+title: "Chapter 3: The Enterprise Middle Layer Explosion (2000s-2020s)"
+---
+
 # Chapter 3: The Enterprise Middle Layer Explosion (2000s-2020s)
 
 ## The Manifesto That Should Have Changed Everything

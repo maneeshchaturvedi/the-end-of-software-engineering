@@ -1,3 +1,8 @@
+---
+layout: default
+title: "Chapter 6: The Competitive Forcing Function"
+---
+
 # Chapter 6: The Competitive Forcing Function
 
 ## The Company That Moved Too Slowly

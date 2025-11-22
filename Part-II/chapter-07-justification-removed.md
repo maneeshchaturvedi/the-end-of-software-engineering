@@ -1,3 +1,8 @@
+---
+layout: default
+title: "Chapter 7: AI Removes the Justification for Control"
+---
+
 # Chapter 7: AI Removes the Justification for Control
 
 ## The Review That Found Nothing

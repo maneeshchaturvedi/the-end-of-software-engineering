@@ -1,3 +1,8 @@
+---
+layout: default
+title: "Chapter 9: Fast Does Not Mean Correct"
+---
+
 # Part III: Speed, Correctness, and the New Safety
 
 *Addressing the "fast but wrong" concern*
