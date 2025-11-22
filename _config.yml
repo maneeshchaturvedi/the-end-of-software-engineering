@@ -3,7 +3,7 @@
 # Site settings
 title: "The End of Software Engineering As We Know It"
 description: "A comprehensive exploration of how AI is fundamentally reshaping software development, organizational structures, and engineering careers."
-author: "Author Name"
+author: "Maneesh Chaturvedi"
 baseurl: "/the-end-of-software-engineering" # The subpath of your site
 url: "" # Will be auto-populated by GitHub Pages
 
