@@ -58,4 +58,4 @@ Please open an issue in this repository to discuss licensing arrangements.
 
 ---
 
-[← Back to book](README.md)
+[← Back to book](./)

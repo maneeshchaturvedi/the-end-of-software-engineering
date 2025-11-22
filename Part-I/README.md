@@ -87,7 +87,7 @@ Part II explores how AI breaks each of these justifications, creating an existen
 
 ## Navigation
 
-[← Back to book](../README.md) | [Table of Contents](../TABLE-OF-CONTENTS.md) | [Part II: The AI Disruption →](../Part-II/)
+[← Back to book](../) | [Table of Contents](../TABLE-OF-CONTENTS) | [Part II: The AI Disruption →](../Part-II/)
 
 ---
 

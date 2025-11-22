@@ -127,7 +127,7 @@ Part III directly confronts this concern, examining:
 
 ## Navigation
 
-[← Part I: The Origins of Bureaucracy](../Part-I/) | [Table of Contents](../TABLE-OF-CONTENTS.md) | [Part III: Speed, Correctness, and the New Safety →](../Part-III/)
+[← Part I: The Origins of Bureaucracy](../Part-I/) | [Table of Contents](../TABLE-OF-CONTENTS) | [Part III: Speed, Correctness, and the New Safety →](../Part-III/)
 
 ---
 
