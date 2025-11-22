@@ -1,0 +1,67 @@
+# Jekyll Configuration for "The End of Software Engineering As We Know It"
+
+# Site settings
+title: "The End of Software Engineering As We Know It"
+description: "A comprehensive exploration of how AI is fundamentally reshaping software development, organizational structures, and engineering careers."
+author: "Author Name"
+baseurl: "" # Leave empty if hosting at username.github.io/repo-name
+url: "" # Will be auto-populated by GitHub Pages
+
+# Theme
+theme: minima
+# Alternative themes you can try:
+# theme: jekyll-theme-minimal
+# theme: jekyll-theme-cayman
+# Or use remote theme:
+# remote_theme: just-the-docs/just-the-docs
+
+# Build settings
+markdown: kramdown
+kramdown:
+  input: GFM
+  syntax_highlighter: rouge
+
+# Reading settings
+permalink: pretty
+exclude:
+  - Gemfile
+  - Gemfile.lock
+  - vendor/
+  - .bundle/
+  - README.md
+  - book-structure.md
+
+# Collections (optional - for more advanced organization)
+# collections:
+#   parts:
+#     output: true
+#     permalink: /:collection/:name
+
+# Defaults
+defaults:
+  - scope:
+      path: ""
+    values:
+      layout: "default"
+
+# Plugins
+plugins:
+  - jekyll-feed
+  - jekyll-seo-tag
+  - jekyll-sitemap
+
+# Social links (optional)
+# github_username: your-username
+# twitter_username: your-username
+
+# Navigation (for themes that support it)
+header_pages:
+  - TABLE-OF-CONTENTS.md
+  - ABOUT.md
+  - LICENSE.md
+
+# Google Analytics (optional)
+# google_analytics: UA-XXXXXXXXX-X
+
+# Show excerpts on homepage
+show_excerpts: true
