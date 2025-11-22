@@ -33,4 +33,4 @@ The goal isn't to tell you what to think. It's to give you the frameworks to thi
 
 ---
 
-[← Back to book](index)
+[← Back to book]({{ site.baseurl }}/)

@@ -180,4 +180,4 @@ title: "Table of Contents"
 
 ---
 
-[← Back to book](index)
+[← Back to book]({{ site.baseurl }}/)

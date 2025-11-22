@@ -134,7 +134,7 @@ The book's second half shifts from "how AI disrupts existing structures" to "wha
 
 ## Navigation
 
-[← Part II: The AI Disruption](../Part-II/) | [Table of Contents](../TABLE-OF-CONTENTS) | [Part IV: The Garbage In, Governance Out Paradox →](../Part-IV/) *(coming soon)*
+[← Part II: The AI Disruption]({{ site.baseurl }}/Part-II/) | [Table of Contents]({{ site.baseurl }}/TABLE-OF-CONTENTS) | [Part IV: The Garbage In, Governance Out Paradox →]({{ site.baseurl }}/Part-IV/) *(coming soon)*
 
 ---
 
