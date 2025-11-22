@@ -180,4 +180,4 @@ title: "Table of Contents"
 
 ---
 
-[← Back to book](./)
+[← Back to book](index)
