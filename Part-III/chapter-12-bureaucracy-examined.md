@@ -342,4 +342,4 @@ The case against preserving traditional bureaucracy isn't that quality doesn't m
 
 ## Navigation
 
-[← Previous: Chapter 11](chapter-11-graceful-degradation.md) | [Part III Overview](README.md) | [Table of Contents](../TABLE-OF-CONTENTS.md) | Part IV (Coming Soon)
+[← Previous: Chapter 11](chapter-11-graceful-degradation.md) | [Part III Overview](index.md) | [Table of Contents](../TABLE-OF-CONTENTS.md) | Part IV (Coming Soon)

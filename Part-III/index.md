@@ -75,18 +75,21 @@ The infrastructure revolution that makes fast development safer than slow develo
 
 ---
 
-### [Chapter 12: What Bureaucracy Actually Fixed (And Didn't)](chapter-12-bureaucracy-examined.md) *(Coming Soon)*
+### [Chapter 12: What Bureaucracy Actually Fixed (And Didn't)](chapter-12-bureaucracy-examined.md)
 
-A rigorous examination of what each bureaucratic layer actually accomplished versus what it claimed to accomplish. The data is damning.
+Thomas Reeves spent 12 years building an 8-week delivery process as a PM. When data from an AI-assisted pilot team revealed what his process actually accomplished versus what he thought it did, everything changed.
 
-**Planned topics:**
-- The natural experiment: teams with full process vs minimal process with AI
-- Each layer examined: Product Managers, Scrum Masters, Engineering Managers, Architecture Review
-- Claimed purpose vs actual function
-- The delay-to-value ratio: 150 days of delay per serious defect caught in requirements review
-- What bureaucracy really managed: coordination overhead and human variance
-- How AI delivers what bureaucracy promised: consistency, risk reduction, strategic alignment
-- The exposure: when data reveals ineffectiveness
+**Key topics:**
+- The natural experiment: Team Traditional (full process) vs Team Pilot (minimal process with AI)
+- Thomas's weekend crisis: analyzing data that destroyed his professional identity
+- Each layer examined: claimed purpose vs actual function
+- The delay-to-value ratio: 150 days of delay, 4 defects caught in requirements review
+- What bureaucracy really managed: coordination overhead (85% of time) and human variance
+- From defending process to building constraint definition systems
+- How AI delivers what bureaucracy promised: consistency, risk reduction, strategic alignment without coordination theater
+- The transformation: PM team shrinks 8→3, but work becomes more satisfying
+
+**Reading time:** ~30 minutes
 
 ---
 
@@ -140,8 +143,8 @@ The book's second half shifts from "how AI disrupts existing structures" to "wha
 
 ## Reading Time
 
-Part III current: approximately 90 minutes
+Part III total: approximately 125 minutes
 - Chapter 9: ~30 minutes
 - Chapter 10: ~35 minutes
 - Chapter 11: ~30 minutes
-- Chapter 12: ~25 minutes *(coming soon)*
+- Chapter 12: ~30 minutes

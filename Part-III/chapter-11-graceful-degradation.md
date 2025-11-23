@@ -267,4 +267,4 @@ The case for AI-accelerated development doesn't rest on AI being perfect. It res
 
 ## Navigation
 
-[← Previous: Chapter 10](chapter-10-variance-reduction.md) | [Part III Overview](README.md) | [Table of Contents](../TABLE-OF-CONTENTS.md) | [Next: Chapter 12 (Coming Soon)](README.md)
+[← Previous: Chapter 10](chapter-10-variance-reduction.md) | [Part III Overview](index.md) | [Table of Contents](../TABLE-OF-CONTENTS.md) | [Next: Chapter 12 →](chapter-12-bureaucracy-examined.md)

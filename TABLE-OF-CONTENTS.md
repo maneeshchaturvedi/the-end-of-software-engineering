@@ -92,13 +92,13 @@ title: "Table of Contents"
     - The irreversibility exception: when old rules still apply
     - Endgame: systems always partially broken, never fully failed
 
-12. **What Bureaucracy Actually Fixed (And Didn't)** *(Coming soon)*
-    - Examining each layer: PM, Scrum Master, Engineering Manager, Architecture Review
-    - Claimed purpose vs actual function
-    - The delay-to-value ratio: days of process per defect caught
+12. [**What Bureaucracy Actually Fixed (And Didn't)**](Part-III/chapter-12-bureaucracy-examined.md)
+    - Thomas Reeves's journey: 12-year PM confronting what his process actually did
+    - Examining each layer: claimed purpose vs actual function
+    - The data confrontation: Team Traditional vs Team Pilot
     - What bureaucracy really managed: coordination overhead and human variance
+    - From 85% coordination to 15% constraint definition
     - How AI does what bureaucracy pretended to do
-    - The exposure: when data reveals ineffectiveness
 
 ---
 
