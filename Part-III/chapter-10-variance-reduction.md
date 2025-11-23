@@ -289,16 +289,19 @@ The companies that don't recognize it waste resources managing variance that no 
 
 ## Key Takeaways
 
-- **The hidden cost was variance, not speed**: Decades of control structures exist primarily to manage human inconsistency, not slowness
+- **Jennifer Park's transformation**: 15-year code reviewer facing obsolescence discovers her value wasn't compensating for human variance—it was systematic quality enforcement
+- **The identity crisis**: "Thursday afternoon in March 2024"—director tells Jennifer her deep code reviews don't fit the new AI-assisted workflow
+- **The hidden cost was variance, not speed**: Decades of control structures exist primarily to manage human inconsistency, not slowness—30-40% of engineering overhead
 - **AI consistency enables automation**: Predictable error patterns can be caught systematically; unpredictable human variance requires expensive human review
+- **Rachel Okonkwo's data**: 70% reduction in review time variance, 83% reduction in defect range—distribution collapse makes automation possible
 - **Variance reduction compounds**: Consistent code improves onboarding, maintenance, tooling effectiveness, and cognitive load—effects that multiply over time
 - **Distribution matters more than peaks**: Consistently decent code (65th percentile always) beats a mix of brilliant and terrible (ranging from 10th to 95th percentile)
 - **Control structures can be redesigned**: When variance drops 70%, processes designed for high-variance output become inefficient overhead
-- **30-40% of engineering overhead**: Is variance management that evaporates when consistency improves
+- **Mark's departure**: Counter-example—colleague who couldn't adapt to systems role, proving not everyone makes the transition
+- **Six months later**: Jennifer promoted to principal engineer, building linting systems and CI/CD verification—encoding quality into infrastructure
 - **Human variance remains valuable**: In creative problem-solving, architecture, and domain expertise—just not in repetitive code production
-- **The stability threshold**: When variance drops below a certain level, the economics of control flip from "prevent with human review" to "verify with automation"
 
-The revolution isn't that AI writes code faster. It's that AI writes code *more consistently*, and consistency enables automation that was impossible when managing unpredictable human output. Companies that redesign around variance reduction will operate at a fraction of the cost of those that don't—regardless of how much they adopt AI for speed.
+The revolution isn't that AI writes code faster. It's that AI writes code *more consistently*, and consistency enables automation that was impossible when managing unpredictable human output. Jennifer Park discovered her expertise wasn't obsolete—it just needed to shift from compensating for variance to systematically preventing it through tooling. Companies that redesign around variance reduction will operate at a fraction of the cost of those that don't.
 
 
 
